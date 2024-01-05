@@ -1,4 +1,4 @@
-// const API_KEY = "e744c48fb0ad47a785b37088beae8739";
+// const API_KEY = "<NEWS API Key>";
 const API_KEY = "4f2f0bb4e0a79a5c0c3e960cf86b3e13";
 // const API_URL = "https://newsapi.org/v2/everything?q=";
 const API_URL = "https://gnews.io/api/v4/search?q=";
